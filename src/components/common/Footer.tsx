@@ -130,7 +130,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
           <div className="flex items-center gap-1.5 text-slate-300">
             <span>Made with</span>
             <Heart className="w-3.5 h-3.5 text-rose-500 fill-rose-500 animate-pulse" />
-            <span>for Nepal’s Farmers & Agri Ecosystem</span>
+            <span>AKEN CHETTRI & SURESH PUN </span>
           </div>
         </div>
       </div>
