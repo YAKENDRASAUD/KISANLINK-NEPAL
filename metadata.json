@@ -1,0 +1,6 @@
+{
+  "name": "KisanLink Nepal",
+  "description": "From Farm to Fair Market — Full-Stack Agricultural Marketplace, AI Price Advisor, Group Selling, Collection Centers, and QR Traceability for Nepal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
